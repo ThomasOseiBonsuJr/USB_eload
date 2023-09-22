@@ -1,0 +1,10 @@
+command line interface that uses USB
+
+
+Print to screen: Current
+		 Power
+		 Fan Speed
+		 Transistor Temperature?
+
+Power Button
+
