@@ -20,6 +20,7 @@ This is built off of my previous Electronic Load project, a now deleted reposito
 - Learn fusion 360 
 - Research the usb 2.0 protocol
 - Decide MCU (mcu on old electronic load might be good enough)
+- Block diagrams of subsystems in the electronic load
 - 1st draft of schematic and layout 
 - Review, iterate if needed
 - Design enclosure
